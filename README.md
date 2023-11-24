@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Saputra Boderingan</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-![Bocchi](https://tenor.com/bZxbw.gif)
+![Bocchi](https://media.tenor.com/AfMj1IQE0pMAAAAC/bocchi-the-rock.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyuna646" alt="zyuna646" /></a> </p>
 

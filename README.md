@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Saputra Boderingan</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://tenor.com/embed/your-gif-url" width="100%" height="100%" style="position:absolute" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
+![]([http://i.imgur.com/OUkLi.gif](https://tenor.com/view/bocchi-the-rock-gif-27019560.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyuna646" alt="zyuna646" /></a> </p>
 

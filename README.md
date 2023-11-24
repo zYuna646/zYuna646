@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Saputra Boderingan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Indonesia</h3>
+
+<div class="tenor-gif-embed" data-postid="27014251" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/bocchi-the-rock-bocchi-hitori-gif-27014251">Bocchi The Rock Bocchi GIF</a>from <a href="https://tenor.com/search/bocchi+the+rock-gifs">Bocchi The Rock GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyuna646" alt="zyuna646" /></a> </p>
 

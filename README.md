@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Saputra Boderingan</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-![Bocchi](https://media.tenor.com/AfMj1IQE0pMAAAAC/bocchi-the-rock.gif)
+![Bocchi](https://media.tenor.com/apAYwC8pEloAAAAd/bocchi-the-rock-anime.gif)
 
 - 📫 How to reach me **anggarangga646@gmail.com**
 

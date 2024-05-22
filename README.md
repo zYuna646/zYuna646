@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://media.tenor.com/tGQh6a0F8AMAAAAi/bocchi-the-rock.gif" alt="Bocchi" />
+  <img src="https://myreadme.vercel.app/api/embed/zyuna646?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  
 </p>
 
 ## 📊 GitHub Stats

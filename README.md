@@ -101,16 +101,28 @@
 </p>
 
 ## 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/rangga saputra boderingan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga saputra boderingan" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/rangga saputra boderingan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rangga saputra boderingan" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zyuna646" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyuna646" height="30" width="40" />
+<p align="center">
+ <a href="https://www.linkedin.com/in/rangga-saputra-boderingan-910016254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/zYuna646/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/zychan646">
+    <img src="https://www.codewars.com/users/zychan646/badges/large" alt="Codewars Badge" />
   </a>
 </p>
 
-- 📫 How to reach me **anggarangga646@gmail.com**
+<p align="center">
+  <a href="https://leetcode.com/zyuna646">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=zyuna646" alt="KnlnKS's LeetCode stats" />
+  </a>
+
+</p>
+
+
+
+
+- 📫 Anda dapat menghubungi saya di **anggarangga646@gmail.com**

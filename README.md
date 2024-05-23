@@ -1,5 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rangga Saputra Boderingan</h1>
+<p align="center">
+ <a href="https://www.linkedin.com/in/rangga-saputra-boderingan-910016254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/zYuna646/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+</p>
 <h3 align="center">A passionate developer from Indonesia</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue" alt="Full Stack Development" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data%20Analysis-brightgreen" alt="Data Analysis" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Android%20Developer-yellow" alt="Android Development" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Game%20Developer-orange" alt="Game Development" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/System%20Design-red" alt="System Design" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Software%20Engineering-blueviolet" alt="Software Engineering" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Developer-ff69b4" alt="Machine Learning Development" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/tGQh6a0F8AMAAAAi/bocchi-the-rock.gif" alt="Bocchi" />
@@ -7,16 +37,14 @@
   
 </p>
 
-## 📊 GitHub Stats
+<!--  ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zyuna646&show_icons=true&theme=radical" alt="zyuna646 GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyuna646&theme=radical" alt="zyuna646" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyuna646&layout=compact&theme=radical" alt="zyuna646" />
-</p>
+</p> -->
 
 ## 🛠 Tech Stack
-
-### Programming Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -43,8 +71,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   </a>
 </p>
-
-### Frameworks & Libraries
 <p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
@@ -75,39 +101,9 @@
   </a>
 </p>
 
-### Specializations
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Development-blue" alt="Full Stack Development" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Data%20Analysis-brightgreen" alt="Data Analysis" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Android%20Development-yellow" alt="Android Development" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Game%20Development-orange" alt="Game Development" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/System%20Design-red" alt="System Design" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Software%20Engineering-blueviolet" alt="Software Engineering" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Development-ff69b4" alt="Machine Learning Development" />
-  </a>
-</p>
 
 ## 🌐 Connect with me
-<p align="center">
- <a href="https://www.linkedin.com/in/rangga-saputra-boderingan-910016254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/zYuna646/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/playlist/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-</p>
+
 
 <p align="center">
   <a href="https://www.codewars.com/users/zychan646">
@@ -125,4 +121,3 @@
 
 
 
-- 📫 Anda dapat menghubungi saya di **anggarangga646@gmail.com**
